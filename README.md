@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Najmeh Mozaffaree Pour
 - 👀 I’m interested in methods, techniques and tools of analysis, visualization and simulation of urban spatial data.
-- 🌱 I’m Ph.D. student studying Geoinformatics at the University of Tartu.
+- 🌱 I have a Ph.D. in Geoinformatics from the University of Tartu, where I researched “Urban Expansion in Estonia: Monitoring, Analysis and Modeling”. 
 - 📫 Reach me : https://orcid.org/0000-0001-9969-6631
 
 <!---
